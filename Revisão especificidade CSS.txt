@@ -1,0 +1,16 @@
+Ordem de prioridade de especificidade
+
+1 - style inline (aplicando style diretamente no elemento HTML) (mais forte)
+2 - tag <style></style> no HTML, antes do <body> (moderado)
+3 - força de cascata em um arquivo externo (fraca)
+
+
+Unidades de medida CSS
+
+Unidades fixas:
+-px
+
+Unidades relativas:
+-em (relativa ao elemento pai)
+-rem (relativa a toda a página, ou seja, em relação à tag html (elemento raíz da página <-> root))
+-porcentagem (%) -> Unidade relativa à página inteira (da mesma forma que a rem)

@@ -1,0 +1,44 @@
+
+#page-landing{    
+    background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%) no-repeat;
+    min-height: 100vh;
+    text-align: center;
+
+    display: flex;
+    align-items: center;
+}
+
+#container{
+    margin: auto;
+    width: 90%;
+}
+
+/* Elemento root é a tag <html></html> */
+:root{
+    /* font-size: 10px; */
+
+    /*Por padrão, 100% equivale a 16px especificados pelo navegador*/
+    font-size: 62.5%; /*62.5% = 10px*/
+}
+
+.location, h1, .visit p{
+    height: 16vh;
+}
+
+.visit a {
+    width: 8rem;
+    height: 8rem;
+    background: #ffd666;
+    border: none;
+    border-radius: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: auto;
+}
+
+.visit a:hover {
+    background: #96FEFF;
+    transition: background .200s;
+}
