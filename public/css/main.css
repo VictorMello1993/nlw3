@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{    
@@ -30,14 +31,9 @@ body, input, button, textarea{
 
 main h1{
     animation-delay: 150ms;
-}
-
-.visit p{
-    animation-delay: 200ms;
+    font-size: clamp(4rem, 8vw, 8.4rem);
 }
 
 .visit a{
     animation-delay: 250ms;
 }
-
-
