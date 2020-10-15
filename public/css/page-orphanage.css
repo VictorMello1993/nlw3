@@ -159,9 +159,11 @@ main{
 }
 
 .open-details .hour {
-  background: linear-gradient(149.97deg, #e6f7fb 8.13%, #ffffff 92.67%);
-  border: 1px solid #b3dae2;  
-  border-radius: 20px;
+    background: linear-gradient(149.97deg, #E6F7FB 8.13%, #FFFFFF 92.67%);
+    border: 1px solid #B3DAE2;
+    border-radius: 20px;
+
+    color: #5C8599;
 }
 
 .open-details .open-on-weekends{
