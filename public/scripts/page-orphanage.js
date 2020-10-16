@@ -51,6 +51,4 @@ function selectImage(event) {
     imageContainer.src = image.src
 
     // Adicionar a classe .active para o botão clicado
-
-
 }
