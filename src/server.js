@@ -1,6 +1,8 @@
 const express = require('express')
 const server = express()
 const path = require('path')
+const pages = require('./pages')
+
 
 server
 .use(express.static('public')) //Utilizando arquivos estáticos
@@ -9,10 +11,11 @@ server
 .set('views', path.join(__dirname, 'views'))
 .set('view engine', 'hbs')
 
-// Criando uma rota
-.get('/', (req, res) =>{
-    return res.render('index')
-})
+// Rotas da aplicação
+.get('/', pages.index)
+.get('/orphanage', pages.orphanage)
+.get('/orphanages', pages.orphanages)
+.get('/create-orphanage', pages.createOrphanage)
 
 // Ligando o servidor
 server.listen(5500)
