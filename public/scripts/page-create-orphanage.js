@@ -90,3 +90,9 @@ function toggleSelect(event){
 
 }
 
+function validate(event) {
+
+    // // Validar se lat e lng estão preenchidos (DESAFIO)
+    // event.preventDefault()
+    // alert('Selecione um ponto no mapa!')
+}
