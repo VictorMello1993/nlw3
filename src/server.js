@@ -20,7 +20,7 @@ server
 .post('/save-orphanage', pages.saveOrphanage)
 
 // Ligando o servidor
-server.listen(5500)
+server.listen(5500, (req, res) => console.log('Executando...'))
 
 
 // Exemplos de arquivos estáticos:
