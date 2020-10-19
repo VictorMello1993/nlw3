@@ -67,6 +67,7 @@ localhost:5500
 ## Improvements to build
 - [ ] Include a required field validation to add a map location 
 - [ ] Add a new page displaying a success message after registering an orphanage
+- [ ] Add remove orphanage button
 - [ ] Find the potential bugs and fix them
 
 ---
