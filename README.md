@@ -64,6 +64,7 @@ localhost:5500
 ##  Melhorias a implementar
 - [ ] Incluir a validação de obrigatoriedade de incluir uma localização no mapa
 - [ ] Adicionar uma nova página exibindo uma mensagem de sucesso depois de cadastrar um orfanato
+- [ ] Incluir o botão de excluir um orfanato
 - [ ] Encontrar os potenciais bugs e corrigí-los
 
 ---
