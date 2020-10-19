@@ -5,7 +5,6 @@
 
 // Banco de dados
 const Database = require("./database/db");
-
 const saveOrphanage = require("./database/saveOrphanage");
 
 module.exports = {
