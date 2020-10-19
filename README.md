@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="#earth_americas-overview">Visão geral</a> •
-  <a href="#wrench-features">Recursos</a> •
-  <a href="#triangular_flag_on_postgetting-started">Começando</a> •  
-  <a href="#improvements-to-build">Melhorias a implementar</a> •  
+  <a href="#earth_americas-visão-geral">Visão geral</a> •
+  <a href="#wrench-recursos">Recursos</a> •
+  <a href="#triangular_flag_on_postcomeçando">Começando</a> •  
+  <a href="#melhorias-a-implementar">Melhorias a implementar</a> •  
 </p>
 
 <h2>:earth_americas: Visão geral</h2>
