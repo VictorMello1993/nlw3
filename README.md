@@ -64,9 +64,8 @@ localhost:5500
 ##  Melhorias a implementar
 - [ ] Incluir a validação de obrigatoriedade de incluir uma localização no mapa
 - [ ] Adicionar uma nova página exibindo uma mensagem de sucesso depois de cadastrar um orfanato
-- [ ] Adicionar modo escuro
 - [ ] Encontrar os potenciais bugs e corrigí-los
 
 ---
 ## Versões do README
-<a href="/README.md">Inglês</a> | <a href="/README-PTBR.md">Português</a>
+<a href="/README-ENUS.md">Inglês</a> | <a href="/README.md">Português</a>
