@@ -22,7 +22,7 @@
 
 
 <h2>:earth_americas: Overview</h2>
-<p>App built during the event NLW (Next Level Week) season 2, promoted by <a href="https://rocketseat.com.br/">Rocketseat</a>. It was built based on mobile-first pattern, then built for Desktop posteriorly. The purpose of this app is to celebrate the kid's month, who need affection and attention.<p>
+<p>App built during the event NLW (Next Level Week) season 3, promoted by <a href="https://rocketseat.com.br/">Rocketseat</a>. It was built based on mobile-first pattern, then built for Desktop posteriorly. The purpose of this app is to celebrate the kid's month, who need affection and attention.<p>
 
 ---
 
