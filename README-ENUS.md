@@ -71,6 +71,6 @@ localhost:5500
 - [ ] Find the potential bugs and fix them
 
 ---
-## Versions of README
+## README versions
 <a href="/README-ENUS.md">English</a> | <a href="/README.md">Portuguese</a>
 
