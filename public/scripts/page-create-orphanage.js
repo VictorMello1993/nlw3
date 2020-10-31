@@ -91,8 +91,13 @@ function toggleSelect(event){
 }
 
 function validate(event) {
-
-    // // Validar se lat e lng estão preenchidos (DESAFIO)
-    // event.preventDefault()
-    // alert('Selecione um ponto no mapa!')
+    const latitute = document.querySelector('#lat').value
+    const longitute = document.querySelector('#lng').value
+    
+    if(latitute == '' && longitute == ''){
+        alert('Favor, informar as coordenadas no mapa!')
+        event.preventDefault()
+    }else{
+        return
+    }
 }

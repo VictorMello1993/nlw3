@@ -65,7 +65,7 @@ module.exports = {
     }
 
     try {
-      // Salvar um orfanato
+      // Salvar um orfanato no banco de dados
       const db = await Database;
       await saveOrphanage(db, {
         lat: fields.lat,
