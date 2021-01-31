@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorMello1993/nlw3?color=FF0000">
   
-  <a href="https://github.com/VictorMello1993/FlappyBird/commits/master">
+  <a href="https://github.com/VictorMello1993/nlw3/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorMello1993/nlw3?color=D3D3D3">
   </a> 
   
